@@ -35,7 +35,7 @@
 
 ## 📬 Contact Me
 <p align="left">
-  <a href=" www.linkedin.com/in/sejal-singh-204839359">
+  <a href="https://www.linkedin.com/in/sejal-singh-204839359/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   <a href="https://github.com/sejaltech">
