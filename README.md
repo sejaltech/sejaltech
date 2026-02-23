@@ -62,20 +62,36 @@
 </p>
 
 ---
+<!-- ================= CONNECT SECTION ================= -->
 
-## 🌐 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  Open to collaborations and conversations — feel free to reach out!
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sejal-singh-204839359/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
   <a href="https://github.com/sejaltech">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
----
+<br>
 
+<p align="center">
+  <i>✨ Learning by building, improving every day ✨</i>
+</p>
+
+<!-- Gradient Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff00cc&height=120&section=footer"/>
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
