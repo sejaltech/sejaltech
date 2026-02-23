@@ -61,31 +61,42 @@
   <img src="https://streak-stats.demolab.com?user=sejaltech&theme=radical&hide_border=true"/>
 </p>
 
----
-<!-- ================= CONNECT SECTION ================= -->
+<!-- ================= CUSTOM CONNECT SECTION ================= -->
 
-<h2 align="center">🤝 Connect With Me</h2>
+<br>
+
+<h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
-  Open to collaborations and conversations — feel free to reach out!
+  <em>Building projects, learning daily, and always open to new ideas 🌱</em>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sejal-singh-204839359/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sejal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  
   <a href="mailto:yourgmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/sejaltech">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3500&color=FF69B4&center=true&vCenter=true&width=420&lines=Learning+by+doing+✨;Code.+Create.+Improve.;Small+steps+every+day+🚀" />
+</p>
+
+<br>
+
+<!-- Soft Gradient Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 <p align="center">
   <i>✨ Learning by building, improving every day ✨</i>
 </p>
